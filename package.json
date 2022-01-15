@@ -26,6 +26,6 @@
   "homepage": "https://github.com/gegeliu/ncmd#readme",
   "dependencies": {
     "commander": "^5.1.0",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   }
 }
